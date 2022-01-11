@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="attachment.png" />
+    <None Remove="body.png" />
+    <None Remove="header.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MsgReader" Version="4.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="attachment.png" />
+    <Resource Include="body.png" />
+    <Resource Include="header.png" />
+  </ItemGroup>
+
+</Project>

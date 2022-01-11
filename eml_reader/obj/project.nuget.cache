@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "jvBZmu5h46PNN5ZnCC7HVsAjPQausJQiwr7ni2yRS0THH0lhV0iViocz1pWsKDrEZGdqzfy0ntqJP9kU+dM23A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Glavi\\source\\repos\\eml_reader\\eml_reader\\eml_reader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Glavi\\.nuget\\packages\\microsoft.io.recyclablememorystream\\2.1.3\\microsoft.io.recyclablememorystream.2.1.3.nupkg.sha512",
+    "C:\\Users\\Glavi\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Glavi\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Glavi\\.nuget\\packages\\msgreader\\4.2.3\\msgreader.4.2.3.nupkg.sha512",
+    "C:\\Users\\Glavi\\.nuget\\packages\\openmcdf\\2.2.1.9\\openmcdf.2.2.1.9.nupkg.sha512",
+    "C:\\Users\\Glavi\\.nuget\\packages\\rtfpipe\\2.0.7677.4303\\rtfpipe.2.0.7677.4303.nupkg.sha512",
+    "C:\\Users\\Glavi\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\Glavi\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\Glavi\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
+    "C:\\Users\\Glavi\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Glavi\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
+    "C:\\Users\\Glavi\\.nuget\\packages\\system.security.cryptography.pkcs\\5.0.1\\system.security.cryptography.pkcs.5.0.1.nupkg.sha512",
+    "C:\\Users\\Glavi\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "C:\\Users\\Glavi\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Glavi\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Glavi\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
